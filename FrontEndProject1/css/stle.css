@@ -1,0 +1,23 @@
+.button-variants{
+    display: flex;
+    margin: 0 auto;
+}
+
+.button-variants button {
+    border: none;
+    padding: 10px 25px;
+    font-size: 0.8rem;
+}
+.btn1 :hover {
+    background-color: var(--purple);
+}
+
+.var-purple {
+    background-color:purple;
+}
+.var-grey {
+    background-color: grey;
+}
+.var-green {
+    background: green;
+}

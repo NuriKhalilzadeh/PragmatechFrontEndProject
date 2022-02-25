@@ -1,0 +1,9 @@
+.column1 {
+    margin: 1px solid red;
+    width: 280px;
+    height: 580px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
